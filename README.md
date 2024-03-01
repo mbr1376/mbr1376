@@ -1,12 +1,28 @@
-### Hi there 👋
+### Hi, This is Mbr 👋
 
-<!--
-**mbr1376/mbr1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Professional programming experience with C++, QT, Python programming languages.Interested in embedded systems and working with Raspberry Pi, fpga, Arduino hardware.teaching programming to others and learning with training
+<p>
 
-Here are some ideas to get you started:
+#### Some fields of study and activities 
+- Python Programming
+- C++ Programming
+- QT , Qml/Js Programming
+- Machine Learning / Deep Learning
+- NLP
+- Imagprocessinge 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+#### 🔭 I’m currently working on ...
+- Python Programming
+- C++ Programming 
+- QT , Qml/Js Programming
+#### 🌱 I’m currently learning ...
+
+- Machine Learning / Deep Learning
+- NLP
+- Imagprocessinge 
+- DEVOPS
+
+ <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
