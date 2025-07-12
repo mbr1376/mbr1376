@@ -16,17 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> 
 </a>
 </p>
-![Github Stats] (https://github-readme-stats.vercel.app/api?username=mbr1376&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-![](https://raw.githubusercontent.com/mbr1376/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/mbr1376/github-stats-transparent/output/generated/languages.svg)
-#### Some fields of study and activities 
-- Python Programming
-- C++ Programming
-- QT , Qml/Js Programming
-- Machine Learning / Deep Learning
-- NLP
-- Imagprocessinge 
 
 #### 🔭 I’m currently working on ...
 - Python Programming
