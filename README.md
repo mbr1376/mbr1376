@@ -1,7 +1,6 @@
-### Hi, This is Mbr 👋
+<h1 align="center"> Hi, This is Mbr 👋 </h1>
 
-<p>Professional programming experience with C++, QT, Python programming languages.Interested in embedded systems and working with Raspberry Pi, fpga, Arduino hardware.teaching programming to others and learning with training
-<p>
+<h3 align="center">Professional programming experience with C++, QT, Python programming languages.Interested in embedded systems and working with Raspberry Pi, fpga, Arduino hardware.teaching programming to others and learning with training</h3>
 
 #### Some fields of study and activities 
 - Python Programming
