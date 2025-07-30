@@ -11,10 +11,10 @@
 ### 🌐 Connect with Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/mbr1376" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:mbroodaraby76@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mbr1376" target="_blank">
@@ -42,9 +42,8 @@
 ---
 
 ### 📈 GitHub Stats:
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mbr1376/github-stats-transparent/output/generated/overview.svg" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mbr1376&show_icons=true&theme=radical" width="450"/>
 </p>
 
 ---
@@ -52,7 +51,7 @@
 ### 🧠 Top Languages:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mbr1376/github-stats-transparent/output/generated/languages.svg" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbr1376&layout=compact&theme=radical" width="450"/>
 </p>
 
 ---
