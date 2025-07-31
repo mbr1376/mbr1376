@@ -2,10 +2,6 @@
 
 <h3 align="center">🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast</h3>
 
-<p align="center">
-  Passionate about building scalable software, creating effective solutions, and learning every day.
-</p>
-
 ---
 
 ### 🌐 Connect with Me:
@@ -63,6 +59,7 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mbr1376's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mbr1376&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 
 
