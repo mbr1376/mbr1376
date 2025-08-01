@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, This is Mbr</h1>
+<h1 align="center">👋 Hi, Mbr</h1>
 
 <h3 align="center">🚀 Full Stack Developer | Problem Solver | Open Source Enthusiast</h3>
 
